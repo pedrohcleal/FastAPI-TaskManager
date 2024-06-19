@@ -1,5 +1,7 @@
 ### FastAPI: Construindo uma API do Zero
 
+![link](https://fastapidozero.dunossauro.com/01/)
+
 Este repositório contém materiais e instruções para começar a desenvolver uma API usando FastAPI. Abaixo estão os passos para configurar seu ambiente de desenvolvimento e executar seu primeiro "Hello, World!" com testes.
 
 ---
